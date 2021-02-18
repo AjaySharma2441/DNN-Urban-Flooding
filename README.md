@@ -2,12 +2,12 @@
 Deep Neural Network is used to classify the urban flood risk area within the three cities (Bhagalpur, Varanasi and Patna)
 Training sample were taken from the Patna on the basics of flood which took place on September, 2019.
 
-main.py = complete code of DNN for Urban Flood.
-test_data = Data used for training and testing.
+main.py = complete code of DNN for Urban Flood:
+test_data = Data used for training and testing:
 Result = Output data for Varanasi.
 
-About CSV data
-Parameters used
+About CSV data-
+Parameters used:
 Slope = Slope,
 DEM = Digital Elevation Model,
 DS = Distance from Sewerage Network,
