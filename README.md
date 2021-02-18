@@ -4,7 +4,7 @@ Training sample were taken from the Patna on the basics of flood which took plac
 
 main.py = complete code of DNN for Urban Flood:
 test_data = Data used for training and testing:
-Result = Output data for Varanasi.
+Output = Output data for Varanasi.
 
 About CSV data-
 Parameters used:
