@@ -17,7 +17,8 @@ GWL = Ground Water Level,
 DR = Distance from River,
 LULC = Land Use Land Cover,
 Pop_Density = Population density
-Rainfall = Rainfall.
+Rainfall = Rainfall,.
+DRd = Distance from Road
 
 In this all hte spatial datas were converted into csv data then classification is perform over csv data and output is generated in csv format.Further this csv data is converted into spatial for to show the spatial distribution of risk map.
 
